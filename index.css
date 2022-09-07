@@ -1,0 +1,145 @@
+body {
+    background-color: aquamarine;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+.container {
+    background-color: rgb(255, 255, 255);
+    height: 375px;
+    width: 750px;
+    border-radius: 20px;
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 16% 1200px;
+}
+.container1 {
+    display: block;
+    background-color: hsl(183, 100%, 15%);
+    height: 350px;
+    width: 350px;
+    position: absolute;
+    margin-top: 1%;
+    margin-left: 685px;
+    border-radius: 20px;
+}
+.container2 {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+    background-color: lightcyan;
+    height: 30px;
+    width: 300px;
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 340px;
+    border-radius: 5px;
+    
+}
+.containertext {
+    background-color: rgb(255, 255, 255);
+    height: 30px;
+    width: 300px;
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 340px;
+    border-radius: 5px;
+}
+.logo {
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 48%;
+}
+.img-cont {
+    width: 20px;
+    height: 20px;
+
+}
+.containerbtn {
+    background-color: rgb(255, 255, 255);
+    height: 200px;
+    width: 300px;
+    position: fixed;
+    margin-top: 110px;
+    margin-left: 340px;
+}
+.btn1 {
+    background-color:  hsl(183, 100%, 15%);
+    border-radius: 10px;
+    width: 80px;
+    height: 40px;
+    color: white;
+    margin-left: 7px;
+    border: none;
+    transition: .2s;
+}
+.btn1:hover {
+    background-color: rgb(193, 255, 255);
+    color:  hsl(183, 100%, 15%);
+}
+.btn2 {
+    background-color: hsl(172, 67%, 45%);
+    border-radius: 10px;
+    width: 80px;
+    height: 40px;
+    color: rgb(0, 0, 0);
+    margin-left: 7px;
+    border: none;
+}
+.btn3 {
+    background-color: hsl(189, 41%, 97%);
+    border-radius: 10px;
+    width: 80px;
+    height: 40px;
+    color:  hsl(183, 100%, 15%);
+    margin-left: 7px;
+    border: none;
+    
+}
+
+.bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+     background-color: lightcyan;
+     height: 30px;
+     width: 300px;
+     position: absolute;
+     margin-top: 23%;
+     margin-left: 340px;
+     border-radius: 5px;
+     
+ }
+ .reset {
+    background-color:  hsl(172, 67%, 45%);
+    border-radius: 10px;
+    width: 200px;
+    height: 40px;
+    color: white;
+    margin-left: 90px;
+    border-radius: 10px;
+    border: none;
+ }
+ .amount {
+     
+    color:  hsl(172, 67%, 45%);
+    font-family: (https://fonts.google.com/specimen/Space+Mono);
+ }
+ p {
+     margin-left: 20px;
+ }
+ .sub1 {
+    display: flex;
+    justify-content: space-around;   
+ }
+ .sub-sub2 {
+     margin-top: 25px;
+ }
+ .sub2 {
+    display: flex;
+    justify-content: space-around;
+ }
+ .sub-sub3 {
+    margin-top: 25px;
+    margin-left: -56px;
+}
